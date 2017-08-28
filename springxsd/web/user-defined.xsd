@@ -10,4 +10,4 @@
                 <attribute name="eMail" type="string"/>
             </complexType>
     </element>
-</schema>
+        </schema>
