@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema"
-        targetNamespace="https://github.com/helochen/learnSpring/blob/master/learn41/src/main/java/org/chen/learn/user-defined.xsd"
+        targetNamespace="https://github.com/helochen/learnSpring/blob/master/learn41/src/main/java/org/chen/learn/user"
         elementFormDefault="qualified">
 
     <element name="user">
